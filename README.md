@@ -14,4 +14,4 @@
 |chatbot 언어모델|Ollama|
 
 -----------------------------
-## [안내봇 코드🛴] (https://github.com/so-pyeong/LLM_scooterParking/blob/main/scapp3.py)
+### [안내봇 코드🛴](https://github.com/so-pyeong/LLM_scooterParking/blob/main/scapp3.py)
