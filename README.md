@@ -12,4 +12,5 @@
 |웹 프레임워크|Streamlit|
 |chatbot 언어모델|Ollama|
 
+-----------------------------
 ## 코드 -> https://github.com/so-pyeong/LLM_scooterParking/blob/main/scapp3.py
