@@ -29,12 +29,14 @@
 |chatbot 언어모델|Ollama|
 
 -----------------------------
-### LLM(챗봇) 결과 화면
+### 🖥️LLM(챗봇) 결과 화면
+
 ![llm결과복사](https://github.com/user-attachments/assets/c9b3acac-e340-448f-b136-0fa1b0a48abb)
 
 -----------------------------
-### 보완점
+### 🖥️문제 및 개선사항
+
 ![llm보완점](https://github.com/user-attachments/assets/d2c55642-085a-4f65-8ceb-84dd12b0eb33)
 
 -----------------------------------
-## [🛴안내봇 코드 바로가기!](https://github.com/so-pyeong/LLM_scooterParking/blob/main/scapp3.py)
+### [🛴안내봇 코드 바로가기!](https://github.com/so-pyeong/LLM_scooterParking/blob/main/scapp3.py)
