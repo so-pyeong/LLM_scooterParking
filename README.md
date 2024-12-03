@@ -1,4 +1,4 @@
-# 서울시 전동킥보드 거치대 안내 챗봇
+# LLM 서울시 전동킥보드 거치대 안내 챗봇
 
 ### 👩‍💻개발 배경 및 목표
 
@@ -37,6 +37,10 @@
 ### 🖥️문제 및 개선사항
 
 ![llm보완점](https://github.com/user-attachments/assets/d2c55642-085a-4f65-8ceb-84dd12b0eb33)
+
+**❤️‍🩹개선사항**
+1. Key data의 보편성을 높이기 위해 포괄적인 공공데이터로 업데이트 할 예정
+2. ㅇ
 
 -----------------------------------
 ### [🛴안내봇 코드 바로가기!](https://github.com/so-pyeong/LLM_scooterParking/blob/main/scapp3.py)
