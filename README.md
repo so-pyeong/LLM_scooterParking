@@ -39,8 +39,8 @@
 ![llm보완점](https://github.com/user-attachments/assets/d2c55642-085a-4f65-8ceb-84dd12b0eb33)
 
 **❤️‍🩹개선사항**
-1. Key data의 보편성을 높이기 위해 포괄적인 공공데이터로 업데이트 할 예정
-2. ㅇ
+1. 오류와 한정적이고 일정하지 않은 데이터 문제 해결
+   * Key data의 보편성을 높이기 위해 포괄적인 공공데이터로 업데이트 할 예정
 
 -----------------------------------
 ### [🛴안내봇 코드 바로가기!](https://github.com/so-pyeong/LLM_scooterParking/blob/main/scapp3.py)
